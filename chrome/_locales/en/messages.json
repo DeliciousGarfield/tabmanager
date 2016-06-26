@@ -1,0 +1,18 @@
+{
+  "extName": {
+    "message": "Tab Manager",
+    "description": "Extension Name"
+  },
+  "extDescription": {
+    "message": "Tab Manager can sort your tabs by category",
+    "description": "Extension Description"
+  },
+  "menuArrange": {
+    "message": "Arrange Tabs By Category",
+    "description": "Menu Arrange"
+  },
+  "menuRestore": {
+    "message": "Restore Tabs",
+    "description": "Menu Restore"
+  }
+}
