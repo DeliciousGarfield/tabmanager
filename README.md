@@ -11,5 +11,5 @@ Before rearrange tabs:
 After rearrange tabs:
 ![chrome_after](doc/images/chrome_after.png)
 ## Miscellaneous
-You can download the Firefox version from [releases](https://github.com/DeliciousGarfield/tabmanager/releases). For Chrome, you have to download the source folder to your local drive, and install it from 'Developer Mode'. You can download the Chrome version in a few days.
+You can download the Firefox version from [releases](https://github.com/DeliciousGarfield/tabmanager/tree/master/release). For Chrome, you have to download the source folder to your local drive, and install it from 'Developer Mode'. The Chrome version will be available in a few days.
 ![chrome_install](doc/images/chrome_install.png)
